@@ -1,10 +1,16 @@
-# NeonQR Studio 🌐
 
-Este é um projeto de desenvolvimento web focado na criação de uma landing page moderna e responsiva para o gerenciamento e geração de QR Codes personalizáveis.
+# NeonQR Studio 🌐✨
 
-### 🛠️ Tecnologias Utilizadas
-* **HTML5:** Estruturação semântica de toda a interface do site.
-* **CSS3:** Estilização com design moderno e efeitos visuais inspirados no estilo Neon.
+Este é um projeto de interface web focado em design moderno e funcionalidade de geração de códigos QR personalizados.
 
-### 🚀 Objetivo do Projeto
-Praticar conceitos fundamentais de desenvolvimento front-end, organização de layout e estilização CSS, simulando um produto real focado na experiência do utilizador.
+### 🛠️ Ferramentas Utilizadas
+- **HTML5 & CSS3:** Estruturação e estilização visual com estética Neon.
+- **QR Code Styling:** Utilização da biblioteca [qr-code-styling](https://qr-code-styling.com/) para gerar QRs customizados com suporte a gradientes e logos.
+
+### 🚀 Funcionalidades
+- Interface intuitiva com brilho neon.
+- Personalização de cores do QR Code para combinar com a identidade visual da marca.
+- Exportação em formatos de alta qualidade.
+
+---
+*Este projeto faz parte dos meus estudos de desenvolvimento front-end e integração de bibliotecas JS.*
