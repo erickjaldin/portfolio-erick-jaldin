@@ -10,10 +10,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Estudante de tecnologia focado em construir uma carreira sólida em **Desenvolvimento Web** e **Ciência de Dados**. Atualmente no 1º semestre de ADS, venho explorando como a Inteligência Artificial pode ser aplicada para resolver problemas reais e otimizar processos.
-* **Em destaque:** Realizei um estudo analítico sobre a precisão de diferentes modelos de IA.
-* **Projetos IA:** Treinei modelos de visão computacional para reconhecimento de padrões.
-* **Objetivo:** Unir lógica de programação (Python) com criação de interfaces (HTML/CSS).
+**Estudante de ADS na UNICID** focado em **Desenvolvimento Web** e **Machine Learning**. Utilizo lógica de programação e Inteligência Artificial para otimizar processos e criar soluções práticas.
+
+* **Machine Learning:** Treinamento de modelos de visão computacional para reconhecimento de padrões.
+* **Análise de Dados:** Estudo comparativo de performance entre modelos de linguagem (LLMs).
+* **Desenvolvimento:** Construção de interfaces modernas com HTML5 e CSS3.
  
 ---
  
@@ -21,21 +22,20 @@ Estudante de tecnologia focado em construir uma carreira sólida em **Desenvolvi
  
 #### 💻 Desenvolvimento & Dados
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
  
 ---
  
 ### 📂 Portfólio de Projetos
  
-
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **Corrida do Prompt** | Engenharia de Prompt: Criação de imagem complexa (Astronauta Barroco). | [Ver Pasta](./desafio-corrida-prompt/) |
 | **Detector de Traje (IA)** | Modelo de Machine Learning para identificação de vestimenta. | [Ver Pasta](./ia-detector-traje/) |
-| **NeonQR Studio** | Projeto web desenvolvido com foco em estrutura HTML/CSS. | [Ver Pasta](./neonqr-studio-web/) |
-| **Análise Comparativa** | Estudo comparativo avaliando a precisão de modelos de linguagem. | [Ver Pasta](./estudos-teoricos/) |
+| **NeonQR Studio** | Gerador e estilizador de QR Codes co-criado com o Google AI Studio. | [Acessar Site](https://qr-code-styling.com/) |
+| **Batalha de Modelos (XML)** | Estudo analítico e comparativo rodando prompts estruturados em 7 IAs. | [Ver Relatório](https://d.docs.live.net/282A8B38D2D509C1/Documentos/planilha-teste-IA.docx) |
 | **Estudos de Algoritmos** | Exercícios e desafios de lógica de programação com Python. | [Ver Pasta](./logica-python-unicid/) |
 
 ---
@@ -44,6 +44,4 @@ Estudante de tecnologia focado em construir uma carreira sólida em **Desenvolvi
 - `README.md`: Apresentação do meu perfil profissional e vitrine de projetos.
 - `/desafio-corrida-prompt/`: Exercício de Engenharia de Prompt e Imagem IA.
 - `/ia-detector-traje/`: Documentação e link do modelo Teachable Machine.
-- `/neonqr-studio-web/`: Arquivos do site (HTML/CSS).
-- `/estudos-teoricos/`: Documento detalhado sobre a performance das IAs.
-- `/logica-python-unicid/`: Organização dos estudos práticos da faculdade.
+- `/logica-python-unicid/`: Organização dos estudos práticos de algoritmos da faculdade.
