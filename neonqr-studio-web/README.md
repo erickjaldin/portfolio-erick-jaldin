@@ -1,16 +1,29 @@
-
 # NeonQR Studio 🌐✨
 
-Este é um projeto de interface web focado em design moderno e funcionalidade de geração de códigos QR personalizados.
+O **NeonQR Studio** é uma plataforma web moderna e intuitiva projetada para a criação, customização e estilização avançada de QR Codes. O projeto une design de interface de alto impacto com funcionalidades robustas de personalização.
 
-### 🛠️ Ferramentas Utilizadas
-- **HTML5 & CSS3:** Estruturação e estilização visual com estética Neon.
-- **QR Code Styling:** Utilização da biblioteca [qr-code-styling](https://qr-code-styling.com/) para gerar QRs customizados com suporte a gradientes e logos.
-
-### 🚀 Funcionalidades
-- Interface intuitiva com brilho neon.
-- Personalização de cores do QR Code para combinar com a identidade visual da marca.
-- Exportação em formatos de alta qualidade.
+🚀 **[Acesse a Aplicação Online Aqui](https://qr-code-styling.com/)**
 
 ---
-*Este projeto faz parte dos meus estudos de desenvolvimento front-end e integração de bibliotecas JS.*
+
+### 🧠 Desenvolvimento & Co-criação com IA
+Este projeto foi arquitetado e refinado utilizando o **Google AI Studio**. Através de técnicas avançadas de Engenharia de Prompt, a inteligência artificial foi integrada ao ciclo de desenvolvimento para:
+- Otimização e estruturação limpa do código-fonte.
+- Refinamento da arquitetura da aplicação e lógica de estilização.
+- Geração de uma interface fluida com foco na experiência do usuário.
+
+---
+
+### 🛠️ Funcionalidades Principais
+- **Customização Total:** Alteração de cores, aplicação de gradientes e formatos exclusivos para os códigos QR.
+- **Identidade Visual:** Suporte para inserção de logos centralizadas nos códigos gerados.
+- **Exportação de Alta Qualidade:** Geração de arquivos prontos para uso digital ou de forma impressa.
+
+---
+
+### 💻 Tecnologias Utilizadas
+- **Core Front-end:** HTML5, CSS3 e JavaScript.
+- **Engenharia de IA:** Google AI Studio (Modelagem de código e assistência no desenvolvimento).
+
+---
+*Projeto desenvolvido por Erick Jaldin Hinojosa como parte do portfólio prático de Análise e Desenvolvimento de Sistemas (UNICID).*
