@@ -36,7 +36,7 @@
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **NeonQR Studio Pro** | Web app com autenticação, banco de dados e hosting via Firebase Spark. | [Ver Pasta](./neonqr-studio-firebase/) |
-| **Batalha de Modelos (XML)** | Estudo analítico e comparativo rodando prompts estruturados em 7 IAs. | [Ver Relatório](https://d.docs.live.net/282A8B38D2D509C1/Documentos/planilha-teste-IA.docx) |
+| **Batalha de Modelos (XML)** | Estudo analítico e comparativo rodando prompts estruturados in 7 IAs. | [Ver Pasta](./batalha-modelos-xml/) |
 | **Corrida do Prompt** | Engenharia de Prompt: Criação de imagem complexa (Astronauta Barroco). | [Ver Pasta](./desafio-corrida-prompt/) |
 | **Detector de Traje (IA)** | Modelo de Machine Learning para identificação de vestimenta. | [Ver Pasta](./ia-detector-traje/) |
 | **Estudos de Algoritmos** | Exercícios e desafios de lógica de programação com Python. | [Ver Pasta](./logica-python-unicid/) |
@@ -47,6 +47,7 @@
 - `README.md`: Apresentação do meu perfil profissional e vitrine de projetos.
 - `CURRICULO.md`: Meu currículo profissional atualizado e formatado.
 - `/neonqr-studio-firebase/`: Código-fonte e diferenciais da evolução da ferramenta de QR Code.
+- `/batalha-modelos-xml/`: Estudo comparativo de performance e análise de tokens entre LLMs.
 - `/desafio-corrida-prompt/`: Exercício de Engenharia de Prompt e Imagem IA.
 - `/ia-detector-traje/`: Documentação e link do modelo Teachable Machine.
 - `/logica-python-unicid/`: Organização dos estudos práticos de algoritmos da faculdade.
